@@ -35,7 +35,7 @@ function add() {
     timer();
 }
 
-function timer() {legasy
+function timer() {
     t = setTimeout(add, 1000);
 }
 timer();
