@@ -24,7 +24,7 @@ function add() {
     seconds++;
     if (seconds >= 10) {
         seconds = 0;
-        interval10++;legasy
+        interval10++;
         if (interval10 >= 30) {
             interval10 = 0;
         }
