@@ -45,7 +45,7 @@ timer();
 Russian - native, English - beginner level
 
 ### Work experience:
-- **1997-2000:** MEDIA HOLDING Stolichnaya Yarmarka - journalist
+- **1997-2000:** MEDIA HOLDING Stolichnaya Yarmarka, journalist
 - **2000-2012:** freelance, content-manager
 - **2012-2014:** Actis-Wunderman, content-manager
 - **2014-2015:** Magazine "Automobiles",
